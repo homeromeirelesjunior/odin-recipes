@@ -1,1 +1,1 @@
-# odin-recipes
+Project used to improve HTML skills
