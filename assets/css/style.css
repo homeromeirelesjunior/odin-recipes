@@ -1,4 +1,16 @@
+html {
+  box-sizing: border-box;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: inherit;
+}
+
 body {
+  width: 600px;
+  margin: 0 auto;
   font-family: 'Verdana', sans-serif;
   background-color: rgb(206, 203, 214);
   text-align: center;
