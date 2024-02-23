@@ -1,0 +1,23 @@
+body {
+  background-color: rgb(157, 207, 135);
+  text-align: center;
+  font-family: 'Verdana', sans-serif;
+}
+
+ul {
+  padding-left: 0;
+}
+
+ul, ol li {
+  list-style-position: inside;
+}
+
+.main-title {
+  font-size: 42px;
+  color: rgb(15, 46, 15);
+}
+
+.subtitle {
+  font-size: 36px;
+  color: rgb(7, 39, 13);
+}
